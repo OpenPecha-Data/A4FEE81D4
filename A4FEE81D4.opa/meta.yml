@@ -1,0 +1,20 @@
+id: A4FEE81D4
+title: Toh_130-The_Illusory_Absorption-v1
+type: translation
+pechas:
+- I39C97AF6
+- I9A394885
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: tei
+  datatype: Text
+  eft-text-id: UT22084-055-004
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_130-The_Illusory_Absorption-v1
+alignment_to_base:
+  I39C97AF6/0B18: B92C
+  I9A394885/52C0: B92C
